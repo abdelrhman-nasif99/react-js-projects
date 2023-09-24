@@ -1,0 +1,338 @@
+{
+  "questions": [
+    {
+      "question": "What is the process of compacting soil to increase its density and improve its load-bearing capacity?",
+      "options": [
+        "Soil Stabilization",
+        "Soil Liquefaction",
+        "Soil Erosion",
+        "Soil Remediation"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which type of surveying is used to measure angles and distances on the earth's surface?",
+      "options": [
+        "Geodetic Surveying",
+        "Topographic Surveying",
+        "Cadastral Surveying",
+        "Engineering Surveying"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a retaining wall in construction?",
+      "options": [
+        "To prevent soil erosion",
+        "To support a vertical or near-vertical slope of soil",
+        "To enhance drainage",
+        "To provide aesthetics"
+      ],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "Which type of foundation is typically used for tall, slender structures like transmission towers?",
+      "options": [
+        "Pile Foundation",
+        "Mat Foundation",
+        "Spread Foundation",
+        "Raft Foundation"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the term for the measurement of the steepness of a slope?",
+      "options": ["Gradient", "Elevation", "Altitude", "Incline"],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which material is commonly used for road construction and as a base for pavements?",
+      "options": ["Aggregate", "Asphalt", "Concrete", "Brick"],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a soil compaction test?",
+      "options": [
+        "To determine the moisture content of soil",
+        "To assess the strength and density of compacted soil",
+        "To measure the pH level of soil",
+        "To analyze the organic content of soil"
+      ],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "Which type of bridge is characterized by a curved structure supported by arches?",
+      "options": [
+        "Arch Bridge",
+        "Beam Bridge",
+        "Suspension Bridge",
+        "Cantilever Bridge"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the primary purpose of a culvert in civil engineering?",
+      "options": [
+        "To carry traffic over a river or stream",
+        "To provide access to underground utilities",
+        "To control stormwater runoff",
+        "To support tall structures"
+      ],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "Which material is commonly used as a fire-resistant coating for steel structures?",
+      "options": [
+        "Intumescent Paint",
+        "Epoxy Resin",
+        "Polyurethane",
+        "Acrylic Paint"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a construction schedule in a project?",
+      "options": [
+        "To allocate resources and manpower",
+        "To estimate project costs",
+        "To assess soil and rock properties",
+        "To design architectural plans"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which type of load is caused by the force of gravity acting on a structure's own weight?",
+      "options": ["Dead Load", "Live Load", "Wind Load", "Seismic Load"],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the term for a beam that is supported at one end and projects horizontally?",
+      "options": [
+        "Cantilever Beam",
+        "Simply Supported Beam",
+        "Continuous Beam",
+        "Fixed Beam"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which type of concrete mix is designed for rapid setting and early strength gain?",
+      "options": [
+        "High-Early-Strength Concrete",
+        "Lightweight Concrete",
+        "Self-Compacting Concrete",
+        "Fiber-Reinforced Concrete"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a formwork in concrete construction?",
+      "options": [
+        "To shape and support concrete until it hardens",
+        "To provide insulation for the structure",
+        "To protect concrete from moisture",
+        "To reinforce the concrete"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which type of pile is driven into the ground using a hammer or vibratory equipment?",
+      "options": ["Driven Pile", "Bored Pile", "Screw Pile", "Friction Pile"],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the term for a structure that diverts water away from a construction site?",
+      "options": [
+        "Silt Fence",
+        "Erosion Control Blanket",
+        "Swale",
+        "Retention Pond"
+      ],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "Which material is commonly used for sound insulation in buildings?",
+      "options": ["Mineral Wool", "Fiberglass", "Cellulose", "Foam Board"],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a soil bearing capacity test?",
+      "options": [
+        "To assess the strength of soil",
+        "To measure soil compaction",
+        "To evaluate soil permeability",
+        "To determine soil acidity"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which material is commonly used for electrical insulation in buildings?",
+      "options": [
+        "Polyvinyl Chloride (PVC)",
+        "Polyethylene",
+        "Polypropylene",
+        "Polystyrene"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a dewatering system on a construction site?",
+      "options": [
+        "To control groundwater levels",
+        "To provide access to underground utilities",
+        "To protect against fire hazards",
+        "To enhance site aesthetics"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which type of reinforcement is used to control cracking in concrete due to temperature and shrinkage?",
+      "options": [
+        "Shrinkage-Compensating Reinforcement",
+        "Fiber Reinforcement",
+        "Mesh Reinforcement",
+        "Tie Bars"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a compaction roller on a construction site?",
+      "options": [
+        "To compact soil and aggregates",
+        "To transport materials",
+        "To apply finishing touches to concrete",
+        "To measure soil moisture content"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which type of construction joint is formed when concrete is poured against hardened concrete?",
+      "options": [
+        "Cold Joint",
+        "Expansion Joint",
+        "Contraction Joint",
+        "Isolation Joint"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the term for a process that involves removing contaminants from soil or water?",
+      "options": ["Remediation", "Stabilization", "Mitigation", "Containment"],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which type of roof is characterized by a single-sloped surface?",
+      "options": ["Monopitch Roof", "Gable Roof", "Hip Roof", "Mansard Roof"],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a geosynthetic material in civil engineering?",
+      "options": [
+        "To provide structural support for bridges",
+        "To improve the stability and performance of soils",
+        "To insulate buildings",
+        "To filter stormwater runoff"
+      ],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "Which type of dam is constructed using compacted earth or rock fill?",
+      "options": ["Embankment Dam", "Gravity Dam", "Arch Dam", "Buttress Dam"],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a test pit in geotechnical engineering?",
+      "options": [
+        "To collect soil samples for analysis",
+        "To determine groundwater levels",
+        "To measure compaction levels",
+        "To assess rock properties"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which material is commonly used for thermal insulation in buildings?",
+      "options": [
+        "Expanded Polystyrene (EPS)",
+        "Fiberglass",
+        "Mineral Wool",
+        "Cellulose"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a pile cap in foundation design?",
+      "options": [
+        "To transfer loads from the superstructure to the piles",
+        "To protect piles from corrosion",
+        "To increase the bearing capacity of the soil",
+        "To provide an even surface for the foundation"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which type of concrete curing involves covering the concrete with a waterproof material?",
+      "options": [
+        "Membrane Curing",
+        "Steam Curing",
+        "Water Curing",
+        "Air Curing"
+      ],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "What is the purpose of a grout in construction?",
+      "options": [
+        "To stabilize soil",
+        "To fill gaps and voids between tiles or masonry units",
+        "To reinforce concrete",
+        "To provide insulation"
+      ],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "Which material is commonly used for waterproofing flat roofs?",
+      "options": [
+        "Bitumen Membrane",
+        "Polyethylene Sheet",
+        "Rubber Roofing",
+        "Metal Roofing"
+      ],
+      "correctOption": 0,
+      "points": 2
+    }
+  ]
+}

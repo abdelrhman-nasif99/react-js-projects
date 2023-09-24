@@ -13,9 +13,6 @@ React JS (version 4)
 Installing
 A step-by-step series of examples that tell you how to get a development environment running.
 
-# Clone the repository
-git clone https://github.com/yourusername/react-js-projects.git
-
 # Change into the project directory
 cd react-js-projects/project-1
 
